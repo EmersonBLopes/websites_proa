@@ -1,0 +1,31 @@
+.Header{
+    width: 100%;
+    float: left;
+    padding: 50px 8%;
+    background-color: #13c7ae;
+}
+
+.Header .Logo img{
+    float: left;
+}
+
+.Header form{
+    width: 30%;
+    float: right;
+}
+
+.Header input[type = "text"]{
+    width: 85%;
+    padding:15px 10px;
+    border-radius: 10px 0 0 10px;
+}
+
+.Header button{
+    width: 70px;
+    padding: 15px 10px;
+    background-color:#0cae98 ;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 0 10px 10px 0;
+}
+
